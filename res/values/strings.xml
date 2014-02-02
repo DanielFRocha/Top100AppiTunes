@@ -4,5 +4,10 @@
     <string name="app_name">Top100AppiTunes</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    
+    <string name="error_timeout">Não foi possível contatar o servidor.</string>
+    <string name="error_url">A URL do servidor é inválida.</string>
+    <string name="error_json">Não foi possível exibir a lista de APPs.</string>
+    <string name="error_general">Erro ao realizar operação.</string>
 
 </resources>
